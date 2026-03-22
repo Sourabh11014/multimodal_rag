@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/index/chunks.json
+data/raw/*
+!data/raw/.gitkeep

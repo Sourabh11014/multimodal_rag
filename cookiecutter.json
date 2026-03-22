@@ -1,0 +1,7 @@
+{
+  "project_name": "multimodal-rag",
+  "project_slug": "multimodal_rag",
+  "project_description": "Cookiecutter-style FastAPI multimodal RAG service for text and image retrieval",
+  "author_name": "OpenAI Codex",
+  "python_version": "3.11"
+}
